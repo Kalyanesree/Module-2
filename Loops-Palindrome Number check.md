@@ -33,4 +33,4 @@ else:
 <img width="1070" height="259" alt="image" src="https://github.com/user-attachments/assets/ebbdcded-2f3d-4161-93fd-2cee45836cfd" />
 
 ## Result
-Thus,the python program to check whether the given number is palindrome or not is executed successfully.
+Thus, the python program to check whether the given number is palindrome or not is executed successfully.
